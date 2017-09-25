@@ -1,0 +1,20 @@
+{
+    "name": "castle/model",
+    "description": "model",
+    "type": "library",
+    "homepage": "https://github.com/YanCastle/castle_model",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Castle",
+            "email": "490523604@qq.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{"Castle\\Model\\":"src"}
+    },
+    "require": {},
+    "require-dev":{
+        "phpunit/phpunit": "4.1.*"
+    }
+}

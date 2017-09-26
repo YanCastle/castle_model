@@ -14,7 +14,7 @@
         "psr-4":{"Castle\\Model\\":"src"}
     },
     "require": {
-        "castlecn/base":"*"
+        "castlecn/base":"^0.1.0"
     },
     "require-dev":{
         "phpunit/phpunit": "4.1.*"
